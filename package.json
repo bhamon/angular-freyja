@@ -1,14 +1,12 @@
 {
 	"name":"freyja",
-	"version":"0.1.2",
+	"version":"0.1.3",
 	"description":"Common front-end library",
 	"homepage":"https://github.com/bhamon/angular-freyja",
-	"authors":[
-		{
-			"name":"Cryo",
-			"url":"https://github.com/bhamon"
-		}
-	],
+	"author":{
+		"name":"Cryo",
+		"url":"https://github.com/bhamon"
+	},
 	"repository": {
 		"type":"git",
 		"url":"https://github.com/bhamon/angular-freyja.git"
